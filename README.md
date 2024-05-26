@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## GitHub Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=suthamakes&show_icons=true&theme=dark)
+--------------------------------------------------------------------
+## Profile View Counter
+<img src="https://komarev.com/ghpvc/?username=suthamakes"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suthamakes&layout=compact&theme=dark)](https://github.com/suthamakes/github-readme-stats)
