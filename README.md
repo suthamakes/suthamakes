@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Dear ImGUI based project
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Software Development in general
 - 👯 I’m looking to learn Java and C++
 - 📫 How to reach me: surajth@ieee.org
 
