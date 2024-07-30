@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-<img src="https://komarev.com/ghpvc/?username=suthamakes&color=yellow" alt="Profile Stat">
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=suthamakes&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suthamakes&layout=compact&theme=dark)](https://github.com/suthamakes/github-readme-stats)
