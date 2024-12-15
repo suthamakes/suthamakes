@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Suraj.
 
 
-- 🔭 I’m currently working on a React based web LaTex editor project called Collaboratex
+- 🔭 I’m currently working on a React based LaTex editor project called Collaboratex
 - 🌱 I’m currently learning Software Development in general
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:surajth64@gmail.com)
