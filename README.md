@@ -1,6 +1,5 @@
 ## Hi there 👋 I am Suraj.
 
-
 - 🔭 I’m currently working on a React based LaTex editor project called Collaboratex
 - 🌱 I’m currently learning Software Development in general
 
@@ -9,7 +8,5 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?&logo=hashnode&logoColor=white)](https://sutha.hashnode.dev/)
 
 ## GitHub Stats
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=suthamakes&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suthamakes&layout=compact&theme=dark)](https://github.com/suthamakes/github-readme-stats)
